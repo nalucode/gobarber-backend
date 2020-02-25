@@ -1,6 +1,6 @@
 /* eslint-disable no-console */
 import app from './app';
 
-app.listen(8080, () => {
-  console.log('Running in port 3333');
+app.listen(8000, () => {
+  console.log('Running in port 8000');
 });
